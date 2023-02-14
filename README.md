@@ -14,10 +14,9 @@ Apresentações que aconteceram durante o evento:
 
 * Observabilidade em .NET - Se sua aplicação cair, quem descobre primeiro? Você ou seus clientes? - Matheus Barros (DevPira)
 
-* .NET 7 + ASP.NET Core: principais novidades no desenvolvimento Back-End
-
 * SQL Server High Availability and Disaster Recovery - Roberto Fonseca (Microsoft MVP, MTAC)
 
+* .NET 7 + ASP.NET Core: principais novidades no desenvolvimento Back-End - Renato Groffe (Microsoft MVP, MTAC)
 
 * Desenvolvendo o site do .NET com .NET!!! - Maíra Wenzel (Principal Program Manager - Microsoft)
 
