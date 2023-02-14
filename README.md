@@ -10,9 +10,9 @@ Número de participantes: **85 pessoas**
 Apresentações que aconteceram durante o evento:
 * Keynote - .NET Conf novamente em Campinas-SP - Ericson da Fonseca (Microsoft MVP)
 
-* .NET 7, Azure e o Meio Ambiente - Murilo Beltrame (DevPira)
-
 * Observabilidade em .NET - Se sua aplicação cair, quem descobre primeiro? Você ou seus clientes? - Matheus Barros (DevPira)
+
+* .NET 7, Azure e o Meio Ambiente - Murilo Beltrame (DevPira)
 
 * SQL Server High Availability and Disaster Recovery - Roberto Fonseca (Microsoft MVP, MTAC)
 
