@@ -5,6 +5,8 @@ Organizadores:
 - **Renato Groffe (Microsoft MVP, MTAC)**
 - **Ericson da Fonseca (Microsoft MVP)**
 
+Número de participantes: **85 pessoas**
+
 Apresentações que aconteceram durante o evento:
 * Keynote - .NET Conf novamente em Campinas-SP - Ericson da Fonseca (Microsoft MVP)
 
